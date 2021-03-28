@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/reactTrial/static/css/main.264aba3a.chunk.css",
+    "main.js": "/reactTrial/static/js/main.3be0a502.chunk.js",
+    "main.js.map": "/reactTrial/static/js/main.3be0a502.chunk.js.map",
+    "runtime-main.js": "/reactTrial/static/js/runtime-main.a456e7e4.js",
+    "runtime-main.js.map": "/reactTrial/static/js/runtime-main.a456e7e4.js.map",
+    "static/css/2.9d1b3e7f.chunk.css": "/reactTrial/static/css/2.9d1b3e7f.chunk.css",
+    "static/js/2.f638b769.chunk.js": "/reactTrial/static/js/2.f638b769.chunk.js",
+    "static/js/2.f638b769.chunk.js.map": "/reactTrial/static/js/2.f638b769.chunk.js.map",
+    "static/js/3.7c0cfeb3.chunk.js": "/reactTrial/static/js/3.7c0cfeb3.chunk.js",
+    "static/js/3.7c0cfeb3.chunk.js.map": "/reactTrial/static/js/3.7c0cfeb3.chunk.js.map",
+    "index.html": "/reactTrial/index.html",
+    "static/css/2.9d1b3e7f.chunk.css.map": "/reactTrial/static/css/2.9d1b3e7f.chunk.css.map",
+    "static/css/main.264aba3a.chunk.css.map": "/reactTrial/static/css/main.264aba3a.chunk.css.map",
+    "static/js/2.f638b769.chunk.js.LICENSE.txt": "/reactTrial/static/js/2.f638b769.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/reactTrial/static/media/logo.6ce24c58.svg",
+    "static/media/slick-theme.css": "/reactTrial/static/media/slick.c94f7671.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a456e7e4.js",
+    "static/css/2.9d1b3e7f.chunk.css",
+    "static/js/2.f638b769.chunk.js",
+    "static/css/main.264aba3a.chunk.css",
+    "static/js/main.3be0a502.chunk.js"
+  ]
+}
