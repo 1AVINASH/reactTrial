@@ -1,0 +1,46 @@
+body {
+  display: flexbox;
+  position: absolute;
+}
+.wdt {
+  z-index: -1;
+  top: 0px;
+  left: 820px;
+  width: 500px;
+  height: 810px;
+}
+.img {
+  z-index: -1;
+  top: 0px;
+  left: 820px;
+  width: 720px;
+  height: 810px;
+}
+.leftPartContent {
+  position: absolute;
+  top: 544px;
+  left: 830px;
+  width: 220px;
+  height: 81px;
+  letter-spacing: var(--unnamed-character-spacing--0-11);
+  text-align: left;
+  letter-spacing: -0.11px;
+  color: #ffe8df;
+  opacity: 1;
+  font-size: 16px;
+  line-height: 27px;
+  font-weight: 50px;
+}
+
+.header {
+  position: absolute;
+  top: 501px;
+  left: 831px;
+  width: 80px;
+  height: 20px;
+  text-align: left;
+  letter-spacing: -0.12px;
+  color: #ffffff;
+  opacity: 1;
+  font-weight: 650px;
+}

@@ -1,0 +1,56 @@
+body {
+  display: flex;
+  position: absolute;
+}
+.upperText {
+  position: absolute;
+  top: 359px;
+  left: 60px;
+  width: 571px;
+  height: 162px;
+  letter-spacing: var(--unnamed-character-spacing-0);
+  text-align: left;
+  letter-spacing: 0px;
+  line-height: 54px;
+  font-weight: 550;
+  color: #3e3e3e;
+  opacity: 1;
+  font-size: 42px;
+}
+
+.sampleText {
+  position: absolute;
+  top: 542px;
+  left: 60px;
+  width: 440px;
+  height: 108px;
+  letter-spacing: var(--unnamed-character-spacing--0-11);
+  text-align: left;
+  letter-spacing: -0.11px;
+  color: #6d6d6d;
+  opacity: 1;
+  font-weight: 400;
+}
+
+.googlePlay {
+  position: absolute;
+  top: 693px;
+  left: 232px;
+  width: 207px;
+  height: 80px;
+  opacity: 1;
+}
+.appStore {
+  position: absolute;
+  top: 706px;
+  left: 60px;
+  width: 160px;
+  height: 53px;
+  opacity: 1;
+}
+
+.rightPart {
+  z-index: 1;
+  position: absolute;
+  display: flexbox;
+}

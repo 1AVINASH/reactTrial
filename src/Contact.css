@@ -1,0 +1,110 @@
+.overLay {
+  z-index: 20;
+  display: flexbox;
+  top: 0px;
+  left: 0px;
+  width: 1440px;
+  height: 810px;
+  background-color: rgba(0, 0, 0, 0.6);
+  background-color: rgba(0);
+  opacity: 1;
+  position: fixed;
+}
+
+.contactForm {
+  z-index: 2;
+  display: flexbox;
+  top: 203px;
+  left: 473px;
+  width: 495px;
+  height: 405px;
+  background: #fcebe5 0% 0% no-repeat padding-box;
+  background-color: rgba(0);
+  border-radius: 16px;
+  opacity: 1;
+  position: fixed;
+}
+
+.contactForm:hover {
+  cursor: default;
+}
+
+#name {
+  display: flexbox;
+  position: fixed;
+  top: 339px;
+  left: 509px;
+  width: 420px;
+  height: 45px;
+  background: #f8f9fa 0% 0% no-repeat padding-box;
+  border-radius: 30px;
+  opacity: 1;
+}
+#mail {
+  display: flexbox;
+  position: fixed;
+  top: 395px;
+  left: 509px;
+  width: 420px;
+  height: 45px;
+  background: #f8f9fa 0% 0% no-repeat padding-box;
+  border-radius: 30px;
+  opacity: 1;
+}
+#message {
+  display: flexbox;
+  position: fixed;
+  top: 450px;
+  left: 509px;
+  width: 420px;
+  height: 45px;
+  background: #f8f9fa 0% 0% no-repeat padding-box;
+  border-radius: 30px;
+  opacity: 1;
+}
+
+#submit {
+  position: fixed;
+  top: 510px;
+  left: 824px;
+  width: 105px;
+  height: 45px;
+  background: #000000 0% 0% no-repeat padding-box;
+  border-radius: 39px;
+  opacity: 1;
+  text-align: center;
+  font: normal normal normal 12px/38px Banana Grotesk;
+  letter-spacing: 0.48px;
+  color: #ffffff;
+  opacity: 1;
+  font: var(--unnamed-font-style-normal) normal
+    var(--unnamed-font-weight-normal) 12px/38px Banana Grotesk;
+  font-size: 12px;
+}
+
+#footer {
+  position: fixed;
+  top: 563px;
+  left: 509px;
+  width: 218px;
+  height: 14px;
+  font: var(--unnamed-font-style-normal) normal
+    var(--unnamed-font-weight-normal) 12px/38px Banana Grotesk;
+  text-align: left;
+  font: normal normal normal 12px/38px Banana Grotesk;
+  letter-spacing: 0.48px;
+  color: #495057;
+  opacity: 1;
+}
+
+#closeButton {
+  position: fixed;
+  top: 222px;
+  left: 931px;
+  width: 17px;
+  height: 17px;
+  background: transparent url("./img/Close@2x.png") 0% 0% no-repeat padding-box;
+  transform: rotate(-180deg);
+  transform: scale(0.7, 0.7);
+  opacity: 1;
+}
